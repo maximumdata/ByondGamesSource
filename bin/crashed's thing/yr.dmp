@@ -1,0 +1,17 @@
+"a" = (/mob/npc,/turf,/area)
+"b" = (/turf,/area)
+"c" = (/mob/npc2,/turf,/area)
+"d" = (/obj/handgun,/turf,/area)
+
+(1,1,1) = {"
+abbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbcbb
+bbdbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+bbbbbbbbbb
+"}

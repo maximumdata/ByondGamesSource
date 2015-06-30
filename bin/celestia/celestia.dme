@@ -1,0 +1,68 @@
+// DM Environment file for celestia.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: misc selection.dm
+DIR:
+MAP_ICON_TYPE: 0
+PACKAGE_RSC_NAME: C:\Program Files\BYOND\bin\celestia\celestia_rsc.zip
+PACKAGE_DMS_CLEANCHECK: OFF
+PACKAGE_DME_DEMO: 
+PACKAGE_DME_CLEANCHECK: ON
+PACKAGE_TYPE: 2
+PACKAGE_DMB_HUB: 
+PACKAGE_DMB_EXECHECK: OFF
+PACKAGE_DMS_EXECHECK: OFF
+PACKAGE_RSC_CLEANCHECK: OFF
+PACKAGE_DMB_CLEANCHECK: OFF
+PACKAGE_DME_START: 
+PACKAGE_DME_NAME: C:\Documents and Settings\mike\Desktop\celestia_src.zip
+PACKAGE_DMS_URL: 
+PACKAGE_DME_INFO: 
+PACKAGE_DMS_RSCCHECK: OFF
+PACKAGE_DMB_NAME: C:\Program Files\BYOND\bin\celestia\celestia.zip
+PACKAGE_DMS_NAME: C:\Program Files\BYOND\bin\celestia\celestia_link.zip
+AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: 
+PACKAGE_DMS_INFO: 
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+#define FILE_DIR "icons/burns"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include <forgetme\fadelib\fadelib.dme>
+#include <forgetme\fm_lib\fm_lib.dme>
+#include <forgetme\locklib\locklib.dme>
+#include <abyssdragon\quakeeffect\QuakeEffect.dme>
+#include <spuzzum\s_damage\s_damage.dme>
+#include "char handle.dm"
+#include "cities.dm"
+#include "client.dm"
+#include "global.dm"
+#include "misc areas.dm"
+#include "misc selection.dm"
+#include "mob misc.dm"
+#include "mob player.dm"
+#include "mob procs.dm"
+#include "mob subordinates.dm"
+#include "mob vars.dm"
+#include "objects items.dm"
+#include "procs.dm"
+#include "roofs.dm"
+#include "smiss.dm"
+#include "turfs.dm"
+#include "verb objects.dm"
+#include "world.dm"
+#include "map.dmp"
+// END_INCLUDE
+

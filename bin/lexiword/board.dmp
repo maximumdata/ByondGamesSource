@@ -1,0 +1,228 @@
+"aa" = (/turf/white,/area)
+"ab" = (/turf/board,/area)
+"ac" = (/obj/hud/back,/turf/white,/area)
+"ad" = (/obj/hud/back,/turf/board,/area)
+"ae" = (/turf/bg{tag = ""; icon_state = "0,8"},/area)
+"af" = (/turf/bg{tag = ""; icon_state = "1,8"},/area)
+"ag" = (/turf/bg{tag = ""; icon_state = "2,8"},/area)
+"ah" = (/turf/bg{tag = ""; icon_state = "3,8"},/area)
+"ai" = (/turf/bg{tag = ""; icon_state = "4,8"},/area)
+"aj" = (/turf/bg{tag = ""; icon_state = "5,8"},/area)
+"ak" = (/turf/bg{tag = ""; icon_state = "6,8"},/area)
+"al" = (/turf/bg{tag = ""; icon_state = "7,8"},/area)
+"am" = (/turf/bg{tag = ""; icon_state = "8,8"},/area)
+"an" = (/turf/bg{tag = ""; icon_state = "0,7"},/area)
+"ao" = (/turf/bg{tag = ""; icon_state = "1,7"},/area)
+"ap" = (/turf/bg{tag = ""; icon_state = "2,7"},/area)
+"aq" = (/turf/bg{tag = ""; icon_state = "3,7"},/area)
+"ar" = (/turf/bg{tag = ""; icon_state = "4,7"},/area)
+"as" = (/turf/bg{tag = ""; icon_state = "5,7"},/area)
+"at" = (/turf/bg{tag = ""; icon_state = "6,7"},/area)
+"au" = (/turf/bg{tag = ""; icon_state = "7,7"},/area)
+"av" = (/turf/bg{tag = ""; icon_state = "8,7"},/area)
+"aw" = (/turf/bg{tag = ""; icon_state = "0,6"},/area)
+"ax" = (/turf/bg{tag = ""; icon_state = "1,6"},/area)
+"ay" = (/turf/bg{tag = ""; icon_state = "2,6"},/area)
+"az" = (/turf/bg{tag = ""; icon_state = "3,6"},/area)
+"aA" = (/turf/bg{tag = ""; icon_state = "4,6"},/area)
+"aB" = (/turf/bg{tag = ""; icon_state = "5,6"},/area)
+"aC" = (/turf/bg{tag = ""; icon_state = "6,6"},/area)
+"aD" = (/turf/bg{tag = ""; icon_state = "7,6"},/area)
+"aE" = (/turf/bg{tag = ""; icon_state = "8,6"},/area)
+"aF" = (/turf/bg{tag = ""; icon_state = "0,5"},/area)
+"aG" = (/turf/bg{tag = ""; icon_state = "1,5"},/area)
+"aH" = (/turf/bg{tag = ""; icon_state = "2,5"},/area)
+"aI" = (/turf/bg{tag = ""; icon_state = "3,5"},/area)
+"aJ" = (/turf/bg{tag = ""; icon_state = "4,5"},/area)
+"aK" = (/turf/bg{tag = ""; icon_state = "5,5"},/area)
+"aL" = (/turf/bg{tag = ""; icon_state = "6,5"},/area)
+"aM" = (/turf/bg{tag = ""; icon_state = "7,5"},/area)
+"aN" = (/turf/bg{tag = ""; icon_state = "8,5"},/area)
+"aO" = (/turf/bg{tag = ""; icon_state = "0,4"},/area)
+"aP" = (/turf/bg{tag = ""; icon_state = "1,4"},/area)
+"aQ" = (/turf/bg{tag = ""; icon_state = "2,4"},/area)
+"aR" = (/turf/bg{tag = ""; icon_state = "3,4"},/area)
+"aS" = (/turf/bg{tag = ""; icon_state = "4,4"},/area)
+"aT" = (/turf/bg{tag = ""; icon_state = "5,4"},/area)
+"aU" = (/turf/bg{tag = ""; icon_state = "6,4"},/area)
+"aV" = (/turf/bg{tag = ""; icon_state = "7,4"},/area)
+"aW" = (/turf/bg{tag = ""; icon_state = "8,4"},/area)
+"aX" = (/turf/bg{tag = ""; icon_state = "0,3"},/area)
+"aY" = (/turf/bg{tag = ""; icon_state = "1,3"},/area)
+"aZ" = (/turf/bg{tag = ""; icon_state = "2,3"},/area)
+"ba" = (/turf/bg{tag = ""; icon_state = "3,3"},/area)
+"bb" = (/turf/bg{tag = ""; icon_state = "4,3"},/area)
+"bc" = (/turf/bg{tag = ""; icon_state = "5,3"},/area)
+"bd" = (/turf/bg{tag = ""; icon_state = "6,3"},/area)
+"be" = (/turf/bg{tag = ""; icon_state = "7,3"},/area)
+"bf" = (/turf/bg{tag = ""; icon_state = "8,3"},/area)
+"bg" = (/turf/bg{tag = ""; icon_state = "0,2"},/area)
+"bh" = (/turf/bg{tag = ""; icon_state = "1,2"},/area)
+"bi" = (/turf/bg{tag = ""; icon_state = "2,2"},/area)
+"bj" = (/turf/bg{tag = ""; icon_state = "3,2"},/area)
+"bk" = (/turf/bg{tag = ""; icon_state = "4,2"},/area)
+"bl" = (/turf/bg{tag = ""; icon_state = "5,2"},/area)
+"bm" = (/turf/bg{tag = ""; icon_state = "6,2"},/area)
+"bn" = (/turf/bg{tag = ""; icon_state = "7,2"},/area)
+"bo" = (/turf/bg{tag = ""; icon_state = "8,2"},/area)
+"bp" = (/turf/bg{tag = ""; icon_state = "0,1"},/area)
+"bq" = (/turf/bg{tag = ""; icon_state = "1,1"},/area)
+"br" = (/turf/bg{tag = ""; icon_state = "2,1"},/area)
+"bs" = (/turf/bg{tag = ""; icon_state = "3,1"},/area)
+"bt" = (/turf/bg{tag = ""; icon_state = "4,1"},/area)
+"bu" = (/turf/bg{tag = ""; icon_state = "5,1"},/area)
+"bv" = (/turf/bg{tag = ""; icon_state = "6,1"},/area)
+"bw" = (/turf/bg{tag = ""; icon_state = "7,1"},/area)
+"bx" = (/turf/bg{tag = ""; icon_state = "8,1"},/area)
+"by" = (/turf/bg{tag = ""; icon_state = "0,0"},/area)
+"bz" = (/turf/bg{tag = ""; icon_state = "1,0"},/area)
+"bA" = (/turf/bg{tag = ""; icon_state = "2,0"},/area)
+"bB" = (/turf/bg{tag = ""; icon_state = "3,0"},/area)
+"bC" = (/turf/bg{tag = ""; icon_state = "4,0"},/area)
+"bD" = (/turf/bg{tag = ""; icon_state = "5,0"},/area)
+"bE" = (/turf/bg{tag = ""; icon_state = "6,0"},/area)
+"bF" = (/turf/bg{tag = ""; icon_state = "7,0"},/area)
+"bG" = (/turf/bg{tag = ""; icon_state = "8,0"},/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaabababababaaaa
+aaaaabababababaaaa
+aaaaabababababaaaa
+aaaaabababababaaaa
+aaaaabababababaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaabaaaaaaabaaaa
+aaaaaaabababaaaaaa
+aaaaaaabababaaaaaa
+aaaaaaabababaaaaaa
+aaaaabaaaaaaabaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,3) = {"
+aaaaaaaaaaaaaaaaaa
+aaabaaabaaabaaabaa
+aaaaabaaabaaabaaaa
+aaabaaabaaabaaabaa
+aaaaabaaabaaabaaaa
+aaabaaabaaabaaabaa
+aaaaabaaabaaabaaaa
+aaabaaabaaabaaabaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,4) = {"
+aaaaaaaaaaaaaaaaaa
+aaabaaaaaaaaaaabaa
+aaaaabaaabaaabaaaa
+aaaaaaabababaaaaaa
+aaabababababababaa
+aaaaaaabababaaaaaa
+aaaaabaaabaaabaaaa
+aaabaaaaaaaaaaabaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,5) = {"
+aaaaaaaaaaaaaaaaaa
+aaaaabaaaaaaabaaaa
+aaabababaaabababaa
+aaabababababababaa
+aaabababababababaa
+aaaaabababababaaaa
+aaaaaaabababaaaaaa
+aaaaaaaaabaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,6) = {"
+aaabaaaaaaaaaaabaa
+aaaaabaaaaaaabaaaa
+aaabababababababaa
+abababaaabaaababab
+aaabaaabababaaabaa
+aaabababababababaa
+aaababaaabaaababaa
+aaaaabababababaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,7) = {"
+aaaaaaaaaaaaaaaaaa
+aaaaabababababaaaa
+abaaaaaaabaaaaaaab
+aaababaaabaaababaa
+aaabababababababaa
+aaabaaabababaaabaa
+ababaaaaabaaaaabab
+aaabababaaabababaa
+aaaaadaaaaaaadaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,8) = {"
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,9) = {"
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,10) = {"
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaacaaacaaaaaa
+"}
+
+(1,1,11) = {"
+aeafagahaiajakalam
+anaoapaqarasatauav
+awaxayazaAaBaCaDaE
+aFaGaHaIaJaKaLaMaN
+aOaPaQaRaSaTaUaVaW
+aXaYaZbabbbcbdbebf
+bgbhbibjbkblbmbnbo
+bpbqbrbsbtbubvbwbx
+bybzbAbBbCbDbEbFbG
+acacacacacacacacac
+"}

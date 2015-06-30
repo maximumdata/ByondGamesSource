@@ -1,0 +1,42 @@
+// DM Environment file for step_card.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: step_card.dm
+DIR:
+MAP_ICON_TYPE: 0
+PACKAGE_RSC_NAME: C:\Program Files\BYOND\bin\step_card\step_card_rsc.zip
+PACKAGE_DMS_CLEANCHECK: OFF
+PACKAGE_DME_DEMO: 
+PACKAGE_DME_CLEANCHECK: ON
+PACKAGE_TYPE: 2
+PACKAGE_DMB_HUB: 
+PACKAGE_DMB_EXECHECK: OFF
+PACKAGE_DMS_EXECHECK: OFF
+PACKAGE_RSC_CLEANCHECK: OFF
+PACKAGE_DMB_CLEANCHECK: OFF
+PACKAGE_DME_START: step_card.dm
+PACKAGE_DME_NAME: C:\Program Files\BYOND\bin\step_card\step_card_src.zip
+PACKAGE_DMS_URL: 
+PACKAGE_DME_INFO: 
+PACKAGE_DMS_RSCCHECK: OFF
+PACKAGE_DMB_NAME: C:\Program Files\BYOND\bin\step_card\step_card.zip
+PACKAGE_DMS_NAME: C:\Program Files\BYOND\bin\step_card\step_card_link.zip
+PACKAGE_DMB_INFO: 
+PACKAGE_DMS_INFO: 
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "step_card.dm"
+// END_INCLUDE
+

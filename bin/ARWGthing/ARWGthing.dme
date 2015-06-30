@@ -1,0 +1,29 @@
+// DM Environment file for ARWGthing.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: Op.dm
+DIR:
+MAP_ICON_TYPE: 0
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "game.dm"
+#include "GM (lame).dm"
+#include "host.dm"
+#include "Op.dm"
+#include "Test.dm"
+#include "map2.dmp"
+// END_INCLUDE
+

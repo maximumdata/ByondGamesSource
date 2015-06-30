@@ -1,0 +1,30 @@
+"a" = (/turf/back,/area)
+"b" = (/mob/spawner,/turf/back,/area)
+"c" = (/obj/ledge,/turf/back,/area)
+"d" = (/turf/back,/turf/ledgebl,/area)
+"e" = (/turf/ledgeb,/area)
+"f" = (/turf/back,/turf/ledgebr,/area)
+"g" = (/turf/back,/turf/ledgebl2,/area)
+"h" = (/turf/back,/turf/ledgebr2,/area)
+
+(1,1,1) = {"
+aaabaaaa
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+cccccccc
+deeeeeef
+geeeeeeh
+"}
+
+(1,1,2) = {"
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+aaaaaaaa
+"}

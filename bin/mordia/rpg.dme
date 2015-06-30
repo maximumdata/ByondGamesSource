@@ -1,0 +1,44 @@
+// DM Environment file for rpg.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: map yo.dmp
+DIR:
+UPDATE_OBJ_TREE: ON
+MAP_ICON_TYPE: 0
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include <kunark\kunarklib\KunarkLib.dme>
+#include <nadrew\nadrewsusefulfunctioncollection\Useful functions\Useful functions.dme>
+#include <abyssdragon\quakeeffect\QuakeEffect.dme>
+#include <spuzzum\s_damage\s_damage.dme>
+#include <forgetme\spuzzumsucks\spuzzum sucks at making libs\spuzzum sucks at making libs.dme>
+#include "a.dm"
+#include "druidsummon.dm"
+#include "globesandradar.dm"
+#include "magic.dm"
+#include "mobs.dm"
+#include "necrosummon.dm"
+#include "new things.dm"
+#include "objs.dm"
+#include "procs.dm"
+#include "spawner.dm"
+#include "spellslearned.dm"
+#include "turfs.dm"
+#include "world.dm"
+#include "map yo.dmp"
+// END_INCLUDE
+

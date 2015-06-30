@@ -1,0 +1,8 @@
+macro
+	S return "say"
+	Q return "quit"
+	W return "who"
+	T return "tell"
+	H return "help"
+	C return "color"
+	O return "options"

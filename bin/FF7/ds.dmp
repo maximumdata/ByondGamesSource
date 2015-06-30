@@ -1,0 +1,11 @@
+"a" = (/turf/t,/area)
+"b" = (/obj/x,/turf/t,/area)
+"c" = (/mob,/turf/t,/area)
+
+(1,1,1) = {"
+aaaaa
+aaaaa
+baaca
+aaaaa
+aaaaa
+"}

@@ -1,0 +1,55 @@
+// DM Environment file for shooter.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: mobs.dm
+DIR:
+MAP_ICON_TYPE: 0
+PACKAGE_RSC_NAME: C:\Program Files\BYOND\bin\shooter\shooter_rsc.zip
+PACKAGE_DMS_CLEANCHECK: OFF
+PACKAGE_DME_DEMO: 
+PACKAGE_DME_CLEANCHECK: OFF
+PACKAGE_TYPE: 0
+PACKAGE_DMB_HUB: forgetme.psychosis
+PACKAGE_DMB_EXECHECK: OFF
+PACKAGE_DMS_EXECHECK: OFF
+PACKAGE_RSC_CLEANCHECK: OFF
+PACKAGE_DMB_CLEANCHECK: ON
+PACKAGE_DME_START: 
+PACKAGE_DME_NAME: C:\Program Files\BYOND\bin\shooter\shooter_src.zip
+PACKAGE_DMS_URL: 
+PACKAGE_DME_INFO: 
+PACKAGE_DMS_RSCCHECK: OFF
+PACKAGE_DMB_NAME: C:\Program Files\BYOND\bin\psychosis\psychosis.zip
+PACKAGE_DMS_NAME: C:\Program Files\BYOND\bin\shooter\shooter_link.zip
+AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: sounds/
+PACKAGE_DMS_INFO: 
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "backup"
+#define FILE_DIR "sounds"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "create.dm"
+#include "dmifontstuff.dm"
+#include "heartrate.dm"
+#include "locks.dm"
+#include "mob procs.dm"
+#include "mobs.dm"
+#include "objects.dm"
+#include "s_cone.dm"
+#include "turfs.dm"
+#include "world client.dm"
+#include "map.dmp"
+#include "macro.dms"
+// END_INCLUDE
+

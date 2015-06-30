@@ -1,0 +1,52 @@
+// DM Environment file for rpg.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: roar.dm
+DIR: icons
+MAP_ICON_TYPE: 0
+PACKAGE_RSC_NAME: C:\BYOND\bin\rpg\rpg_rsc.zip
+PACKAGE_DMS_CLEANCHECK: OFF
+PACKAGE_DME_DEMO: 
+PACKAGE_DME_CLEANCHECK: OFF
+PACKAGE_TYPE: 0
+PACKAGE_DMB_HUB: 
+PACKAGE_DMB_EXECHECK: OFF
+PACKAGE_DMS_EXECHECK: OFF
+PACKAGE_RSC_CLEANCHECK: OFF
+PACKAGE_DMB_CLEANCHECK: OFF
+PACKAGE_DME_START: 
+PACKAGE_DME_NAME: C:\BYOND\bin\rpg\rpg_src.zip
+PACKAGE_DMS_URL: 
+PACKAGE_DME_INFO: 
+PACKAGE_DMS_RSCCHECK: OFF
+PACKAGE_DMB_NAME: C:\BYOND\bin\rpg\rpg.zip
+PACKAGE_DMS_NAME: C:\BYOND\bin\rpg\rpg_link.zip
+AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: 
+PACKAGE_DMS_INFO: 
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "char handle.dm"
+#include "forging.dm"
+#include "items.dm"
+#include "misc_world.dm"
+#include "mob.dm"
+#include "roar.dm"
+#include "selection.dm"
+#include "smelting.dm"
+#include "map.dmp"
+// END_INCLUDE
+

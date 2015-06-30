@@ -1,0 +1,16 @@
+macro
+	S return "Say"
+	G return "Get"
+	D return "Drop"
+	R return "Run"
+	Space return "Shoot"
+	Center return "Shoot"
+	num3
+		set name="3"
+		return "SwitchToMG"
+	num2
+		set name = "2"
+		return "SwitchToHG"
+	num1
+		set name = "1"
+		return "SwitchToFists"
